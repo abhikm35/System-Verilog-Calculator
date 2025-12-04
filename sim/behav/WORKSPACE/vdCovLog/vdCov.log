@@ -1,0 +1,11 @@
+The design 'simv.vdb' was loaded successfully.
+The following test is loaded from "simv.vdb",
+    simv/test
+Exclusion file '/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/exclusions.el' has been loaded successfully.
+Checksum conflicts are found: 
+    Modules with checksum mismatches  : 0
+    Instances with checksum mismatches: 0
+    Un-mappable modules: 0
+    Un-mappable instances: 1
+    Total un-mappable exclusions: 1
+    Total exclusions need to review: 1   .

@@ -1,0 +1,3 @@
+QFont::fromString: Invalid description '(empty)'
+The X11 connection broke: I/O error (code 1)
+The X11 connection broke (error 1). Did the X11 server die?

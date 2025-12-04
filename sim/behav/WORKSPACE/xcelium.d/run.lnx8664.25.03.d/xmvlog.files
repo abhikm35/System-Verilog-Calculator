@@ -1,0 +1,19 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calculator_pkg.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/adder32.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/controller.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/full_adder.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/result_buffer.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/sky130_sram_2kbyte_1rw1r_32x512_8.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/top_lvl.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_seq_item.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_tb_pkg.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_driver.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_monitor.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_sb.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_sequencer.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_if.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_tb_top.sv

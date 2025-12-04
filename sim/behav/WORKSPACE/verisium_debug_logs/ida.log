@@ -1,0 +1,33 @@
+23:55:12:5512 [important] [features-3-thread-1] WARN  - InfoSource version is empty in getMajorMinorVersion()
+23:55:12:5512 [important] [features-3-thread-1] WARN  - InfoSource version not found!! skipping relevant version checks
+23:55:13:5513 [important] [features-3-thread-1] INFO  - xmsim gcc version is 12.4.0
+23:55:13:5513 [important] [features-3-thread-1] INFO  - indago gcc version is 12.4.0
+23:55:13:5513 [important] [TangoTaskManager-4] WARN  - An Indago Snapshot/LWD was not loaded. Scripting API functionality may be impacted.
+23:55:13:5513 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-5] INFO  - query: 
+23:55:19:5519 [user_actions] [AWT-EventQueue-1] DEBUG - refreshSchematicAttributes (SchematicActionsManager$24)
+
+23:55:19:5519 [user_actions] [AWT-EventQueue-1] DEBUG - LiveSimulationRefreshWaveform (GSLLiveSimulationRefreshWaveformAction)
+
+23:55:19:5519 [user_actions] [AWT-EventQueue-1] DEBUG - LiveSimulationRefreshWaveform (GSLLiveSimulationRefreshWaveformAction)
+
+23:55:19:5519 [user_actions] [AWT-EventQueue-1] DEBUG - LiveSimulationRefreshWaveform (GSLLiveSimulationRefreshWaveformAction)
+
+23:55:21:5521 [user_actions] [AWT-EventQueue-1] DEBUG - Restore defaults (GUFIQuestionDialog$1)
+	dialog = restoreLayoutsDialog (GUFIQuestionDialog)
+
+23:55:21:5521 [important] [TangoTaskManager-4] INFO  - ScriptingActivator while loop has finished
+23:55:22:5522 [user_actions] [AWT-EventQueue-1] DEBUG - refreshSchematicAttributes (SchematicActionsManager$24)
+
+23:55:27:5527 [user_actions] [AWT-EventQueue-1] DEBUG - Waveform (GSLSendVariablesToWaveAction)
+	source = designTopsTreeTable
+	entity = calc_tb_top
+
+23:55:28:5528 [user_actions] [AWT-EventQueue-1] DEBUG - run (GSLInteractiveRunPanel$3)
+
+23:55:28:5528 [user_actions] [AWT-EventQueue-1] DEBUG - RUN_FORWARD (GSLDebugStepAction)
+
+23:55:28:5528 [user_actions] [AWT-EventQueue-1] DEBUG - LiveSimulationRefreshWaveform (GSLLiveSimulationRefreshWaveformAction)
+
+23:56:59:5659 [user_actions] [AWT-EventQueue-1] DEBUG - OK (GUFIQuestionDialog$1)
+	dialog = confirmExitDlg (GUFIQuestionDialog)
+

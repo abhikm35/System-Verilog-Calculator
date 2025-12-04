@@ -1,0 +1,3 @@
+Connected to dc:ece-rschsrv.ece.gatech.edu:57907
+xmsim ida_probe -wave -wave_probe_args {calc_tb_top}
+xmsim run

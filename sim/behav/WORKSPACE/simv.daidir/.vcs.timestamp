@@ -1,0 +1,252 @@
+10       
+0 calc_seq_item.svh
+0 /tools/software/synopsys/vcs/latest/etc/systemverilog/calc_seq_item.svh
+0 calc_driver.svh
+0 /tools/software/synopsys/vcs/latest/etc/systemverilog/calc_driver.svh
+0 calc_monitor.svh
+0 /tools/software/synopsys/vcs/latest/etc/systemverilog/calc_monitor.svh
+0 calc_sequencer.svh
+0 /tools/software/synopsys/vcs/latest/etc/systemverilog/calc_sequencer.svh
+0 calc_sb.svh
+0 /tools/software/synopsys/vcs/latest/etc/systemverilog/calc_sb.svh
+69
++define+SIM=1+VCS=1
++dumpvars
++fsdb+./simulation.fsdb
++incdir+sym_links
++itf+/tools/software/synopsys/vcs/latest/linux64/lib/vcsdp_lite.tab
++lint=all
++testname=
++v2k
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/tools/software/synopsys/vcs/latest/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /tools/software/synopsys/vcs/latest/linux64/lib/libvirsim.so /tools/software/synopsys/vcs/latest/linux64/lib/liberrorinf.so /tools/software/synopsys/vcs/latest/linux64/lib/libsnpsmalloc.so /tools/software/synopsys/vcs/latest/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/tools/software/synopsys/vcs/latest/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/tools/software/synopsys/verdi/latest/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/tools/software/synopsys/vcs/latest/include
+-Mxllcflags=
+-P
+-Xfile_begin_f=/tmp/vcs_20250929035826_2604175/_vcs_optFile_tmp_0915373054.f
+-Xfile_end
+-Xufe=2steps
+-Xufe=2steps
+-Xufe=2steps
+-Xufe=2steps
+-Xvcs_run_simv=1
+-cm
+-debug_acc+pp+dmptf
+-debug_access+all
+-debug_region+cell+encrypt
+-fsdb
+-full64
+-gen_obj
+-kdb
+-kdb=common_elab
+-kdb=common_elab
+-kdb=common_elab
+-l
+-picarchive
+-sverilog
+-timescale=1ns/10ps
+/tools/software/synopsys/vcs/latest/linux64/bin/vcs1
+simulation.log
+line+tgl+cond+branch+fsm+assert
+/tools/software/synopsys/verdi/latest/share/PLI/VCS/LINUX64/verdi.tab
+sym_links/calculator_pkg.sv
+sym_links/adder32.sv
+sym_links/controller.sv
+sym_links/full_adder.sv
+sym_links/result_buffer.sv
+sym_links/sky130_sram_2kbyte_1rw1r_32x512_8.sv
+sym_links/top_lvl.sv
+sym_links/calc_seq_item.svh
+sym_links/calc_tb_pkg.sv
+sym_links/calc_driver.svh
+sym_links/calc_monitor.svh
+sym_links/calc_sb.svh
+sym_links/calc_sequencer.svh
+sym_links/calc_if.sv
+sym_links/calc_tb_top.sv
+126
+which_declare=declare -f
+XTERM_VERSION=XTerm(331)
+XTERM_SHELL=/bin/bash
+XTERM_LOCALE=en_US.UTF-8
+XPEDION=/tools/software/keysight/goldengate/latest
+XDG_SESSION_ID=10856
+XDG_RUNTIME_DIR=/run/user/3414447
+XDG_DATA_DIRS=/nethome/amojumdar6/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+XAUTHORITY=/nethome/amojumdar6/.fastx_server/ece-rschsrv.ece.gatech.edu/sessions/FX3-bfb8e20bf1404dd49a8bc86206967321/authority
+WV_HOME=/tools/software/synopsys/wv/latest
+VRST_PATH=$SPECMAN_HOME/$SPECMAN_ARCH:$SPECMAN_HOME/bin
+VRST_HOME=/tools/software/cadence/xcelium/latest
+VMR_MODE_FLAG=64
+VERISIUM_DEBUG_ROOT=/tools/software/cadence/verisumdbg/latest
+VERDI_HOME=/tools/software/synopsys/verdi/latest
+VENDOR=unknown
+VCS_PYTHON3=/tools/software/synopsys/vcs/latest/linux64/bin/Python3/bin/python3
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=simulation.log
+VCS_INTERNAL_CONVERTEDLIBS=
+VCS_HOME=/tools/software/synopsys/vcs/latest
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+VCSMX_HOME=/tools/software/synopsys/vcs/latest
+USE_CALIBRE_VCO=aok
+UNAME=/bin/uname
+TOOL_HOME=/tools/software/synopsys/vcs/latest/linux64
+TK_LIBRARY=/tools/software/synopsys/vcs/latest/etc/auxx/tcllib/tk8.4/library
+TANNER_HOME=/tools/software/siemens/tanner/latest
+S_COLORS=auto
+SYNOPSYS_LC_ROOT=/tools/software/synopsys/lc/latest
+SYN=/tools/software/synopsys
+SSH_CLIENT=10.2.65.135 63228 22
+SSH_AUTH_SOCK=/tmp/FastX-bfb8e20bf1404dd49a8bc86206967321/agent.2317049
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SPECMAN_HOME=/tools/software/cadence/xcelium/latest/components/sn
+SPECMAN_DIR=/tools/software/cadence/xcelium/latest/components/sn/linux64
+SPECMAN_ARCH=linux64
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SNPS_VCS_VHDL_WRAPPER_KDB=1
+SNPS_VCS_PYTHON3=/tools/software/synopsys/vcs/latest/linux64/bin/Python3/bin/python3
+SNPS_VCS_CLANG_PATH=/tools/software/synopsys/vcs/latest/linux64/clang
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SALT_LICENSE_SERVER=1717@ece-winlic.ece.gatech.edu
+RSOFT_PROGRAMPATH=/tools/software/synopsys/photonicsolutions/latest/rsoft/bin
+QRC_HOME=/tools/software/cadence/quantus/latest
+PHOTONICS_SOLUTIONS_VERSION=latest
+PHOTONICS_SOLUTIONS_ROOT=/tools/software/synopsys/photonicsolutions
+PEGHOME=/tools/software/cadence/pegasus/latest
+OVA_UUM=0
+OSTYPE=linux
+OPTO_LINK_BASE=/tools/software/synopsys/photonicsolutions/latest/optodesigner/bin
+OA_HOME=/tools/software/cadence/ic/latest/share/oa
+OAINST=/tools/software/cadence/ic/latest
+MODULES_USE_COMPAT_VERSION=0
+MODULES_RUN_QUARANTINE=LD_LIBRARY_PATH LD_PRELOAD
+MODULES_CMD=/usr/share/Modules/libexec/modulecmd.tcl
+MODULESHOME=/usr/share/Modules
+MODULEPATH_modshare=/usr/share/Modules/modulefiles:2:/etc/modulefiles:2:/usr/share/modulefiles:2
+MODULEPATH=/etc/scl/modulefiles:/etc/scl/modulefiles:/etc/scl/modulefiles:/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles
+MMSIMHOME=/tools/software/cadence/spectre/latest
+MLM_LICENSE_FILE=1711@matlablic.ecs.gatech.edu
+MGLS_LICENSE_FILE=1717@ece-winlic.ece.gatech.edu
+MGC_XICPVX_HOME=/tools/software/siemens/vx/xicpvx
+MGC_VALVX_HOME=/tools/software/siemens/vx/valvx
+MGC_TESS_HOME=/tools/software/siemens/tessent/latest
+MGC_QUESTA_HOME=/tools/software/siemens/questa/latest/questasim
+MGC_MSIM_HOME=/tools/software/siemens/modelsim/latest
+MGC_HOME=/tools/software/siemens/calibre/latest
+MGC_HLVX_HOME=/tools/software/siemens/vx/hlvx
+MGC_EEVX_HOME=/tools/software/siemens/vx/eevx
+MGC_CATAPULT_HOME=/tools/software/siemens/catapult/latest/Mgc_home
+MGC_AMS_HOME=/tools/software/siemens/amsv/latest
+MGC=/tools/software/siemens
+MFLAGS=
+MAKE_TERMOUT=/dev/pts/239
+MAKE_TERMERR=/dev/pts/239
+MAKELEVEL=1
+MAKEFLAGS=
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KRB5CCNAME=FILE:/tmp/krb5cc_3414447_EZbKyT
+KDEDIRS=/usr
+ICV_HOME_DIR=/tools/software/synopsys/icvalidator/latest
+HPEESOF_DIR=/tools/software/keysight/ads/latest
+HOSTTYPE=x86_64-linux
+HISTCONTROL=ignoredups
+GROUP=_gtperson_posix_groups_a-i_oit_departmental_gt
+GOLDENGATE_LICENSE_FILE=1812@ece-winlic.ece.gatech.edu
+FX_VAR_DIR=/var/fastx
+FX_LOCAL_DIR=/var/fastx-local
+FX_CONFIG_DIR=/etc/fastx
+FASTX_SESSION_ID=bfb8e20bf1404dd49a8bc86206967321
+FASTX_SESSION_DIR=/nethome/amojumdar6/.fastx_server/ece-rschsrv.ece.gatech.edu/sessions/FX3-bfb8e20bf1404dd49a8bc86206967321
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/3414447/bus
+CLS_CDSD_COMPATIBILITY_LOCKING=NO
+CDS_VHDL=/tools/software/cadence/ic/latest/tools/leapfrog
+CDS_SITE=/tools/software/cadence/ic/latest/share
+CDS_SEARCHDIR=/tools/software/keysight/ads/latest/idf/ads_site
+CDS_LOAD_ENV=CSF
+CDS_LIC_FILE=5280@ece-winlic.ece.gatech.edu
+CDS_INST_DIR=/tools/software/cadence/ic/latest
+CDS_AUTO_64BIT=ALL
+CDSHOME=//tools/software/cadence/ic/latest
+CDSDIR=/tools/software/cadence/ic/latest/tools/dfII
+CDS=/tools/software/cadence/ic/latest
+CALIBRE_HOME=/tools/software/siemens/calibre/latest
+CALIBRE_DISABLE_RHEL6_WARNING=1
+BASH_FUNC_which%%=() {  ( alias;_ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@_}
+BASH_FUNC_switchml%%=() {  typeset swfound=1;_ if [ "${MODULES_USE_COMPAT_VERSION:-0}" = '1' ]; then_ typeset swname='main';_ if [ -e /usr/share/Modules/libexec/modulecmd.tcl ]; then_ typeset swfound=0;_ unset MODULES_USE_COMPAT_VERSION;_ fi;_ else_ typeset swname='compatibility';_ if [ -e /usr/share/Modules/libexec/modulecmd-compat ]; then_ typeset swfound=0;_ MODULES_USE_COMPAT_VERSION=1;_ export MODULES_USE_COMPAT_VERSION;_ fi;_ fi;_ if [ $swfound -eq 0 ]; then_ echo "Switching to Modules $swname version";_ source /usr/share/Modules/init/bash;_ else_ echo "Cannot switch to Modules $swname version, command not found";_ return 1;_ fi_}
+BASH_FUNC_scl%%=() {  if [ "$1" = "load" -o "$1" = "unload" ]; then_ eval "module $@";_ else_ /usr/bin/scl "$@";_ fi_}
+BASH_FUNC_module%%=() {  _module_raw "$@" 2>&1_}
+BASH_FUNC_ml%%=() {  module ml "$@"_}
+BASH_FUNC__module_raw%%=() {  unset _mlshdbg;_ if [ "${MODULES_SILENT_SHELL_DEBUG:-0}" = '1' ]; then_ case "$-" in _ *v*x*)_ set +vx;_ _mlshdbg='vx'_ ;;_ *v*)_ set +v;_ _mlshdbg='v'_ ;;_ *x*)_ set +x;_ _mlshdbg='x'_ ;;_ *)_ _mlshdbg=''_ ;;_ esac;_ fi;_ unset _mlre _mlIFS;_ if [ -n "${IFS+x}" ]; then_ _mlIFS=$IFS;_ fi;_ IFS=' ';_ for _mlv in ${MODULES_RUN_QUARANTINE:-};_ do_ if [ "${_mlv}" = "${_mlv##*[!A-Za-z0-9_]}" -a "${_mlv}" = "${_mlv#[0-9]}" ]; then_ if [ -n "`eval 'echo ${'$_mlv'+x}'`" ]; then_ _mlre="${_mlre:-}${_mlv}_modquar='`eval 'echo ${'$_mlv'}'`' ";_ fi;_ _mlrv="MODULES_RUNENV_${_mlv}";_ _mlre="${_mlre:-}${_mlv}='`eval 'echo ${'$_mlrv':-}'`' ";_ fi;_ done;_ if [ -n "${_mlre:-}" ]; then_ eval `eval ${_mlre} /usr/bin/tclsh /usr/share/Modules/libexec/modulecmd.tcl bash '"$@"'`;_ else_ eval `/usr/bin/tclsh /usr/share/Modules/libexec/modulecmd.tcl bash "$@"`;_ fi;_ _mlstatus=$?;_ if [ -n "${_mlIFS+x}" ]; then_ IFS=$_mlIFS;_ else_ unset IFS;_ fi;_ unset _mlre _mlv _mlrv _mlIFS;_ if [ -n "${_mlshdbg:-}" ]; then_ set -$_mlshdbg;_ fi;_ unset _mlshdbg;_ return $_mlstatus_}
+ASSURAHOME=/tools/software/cadence/pegasus/latest
+ARCH=linux
+APD=/tools/software/cadence/spb/latest
+AGILEESOFD_LICENSE_FILE=1812@ece-linlic.ece.gatech.edu
+ADS_LICENSE_FILE=1812@ece-winlic.ece.gatech.edu
+0
+0
+19
+1759118074 sym_links/calc_tb_top.sv
+1759118074 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_tb_top.sv
+1759117643 sym_links/calc_if.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_if.sv
+1759117643 sym_links/calc_sequencer.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_sequencer.svh
+1759118045 sym_links/calc_sb.svh
+1759118045 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_sb.svh
+1759117643 sym_links/calc_monitor.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_monitor.svh
+1759117643 sym_links/calc_driver.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_driver.svh
+1759117643 sym_links/calc_tb_pkg.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_tb_pkg.sv
+1759117643 sym_links/calc_seq_item.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_seq_item.svh
+1759117643 sym_links/top_lvl.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/top_lvl.sv
+1759117643 sym_links/sky130_sram_2kbyte_1rw1r_32x512_8.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/sky130_sram_2kbyte_1rw1r_32x512_8.sv
+1759117643 sym_links/result_buffer.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/result_buffer.sv
+1759117643 sym_links/full_adder.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/full_adder.sv
+1759117643 sym_links/controller.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/controller.sv
+1759117643 sym_links/adder32.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/adder32.sv
+1759117643 sym_links/calculator_pkg.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calculator_pkg.sv
+1740888327 /tools/software/synopsys/vcs/latest/include/cm_vcsd.tab
+1759118307 /tmp/vcs_20250929035826_2604175/_vcs_optFile_tmp_0915373054.f
+1750311247 /tools/software/synopsys/verdi/latest/share/PLI/VCS/LINUX64/verdi.tab
+1740888368 /tools/software/synopsys/vcs/latest/linux64/lib/vcsdp_lite.tab
+4
+1740891987 /tools/software/synopsys/vcs/latest/linux64/lib/libvirsim.so
+1740889567 /tools/software/synopsys/vcs/latest/linux64/lib/liberrorinf.so
+1740889560 /tools/software/synopsys/vcs/latest/linux64/lib/libsnpsmalloc.so
+1740889556 /tools/software/synopsys/vcs/latest/linux64/lib/libvfs.so
+1759118310 simv.daidir
+-1 partitionlib

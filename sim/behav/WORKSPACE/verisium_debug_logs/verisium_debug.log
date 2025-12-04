@@ -1,0 +1,119 @@
+karaf: PID is: 2529989 (this is karaf's PID. for verisium debug PID cat verisium_debug.pid in the logs directory)
+Picked up _JAVA_OPTIONS:  -XX:+ExitOnOutOfMemoryError -XX:OnOutOfMemoryError="touch /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/out_of_memory_error" 
+CompileCommand: exclude javax/swing/text/GlyphView.getBreakSpot
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Loading libdac.so from /tools/software/cadence/verisumdbg/latest/tools/lib/64bit/libdac.so
+
+
+in 'SimConnect::_simcontrolConnect' overlay db = null, overlayH = 0, is valid = false, operation = dapOpen, duFilename = null, isLiveSim = true
+in 'JDACTBDataProvider::notifyLiveConnectionDB', sessionId = 0
+
+
+**** found lwd dir to be: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/worklib/calc_tb_top/sv
+
+
+
+**** found cdslib to be: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.d/cds.lib
+
+in 'JDACTBDataProvider::notifyLiveConnectionDB', 'dbH' represents 'simulator' db.
+PPEAttributes values:
+    isAutofetch = false
+    isPersistentSources = false
+    isXprop = false
+    cdslib = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.d/cds.lib
+    snapshot = worklib.calc_tb_top:sv
+    workdir = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE
+    xceliumDir = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d
+    rundDir = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.d
+    bits = 64
+    cds_implicit_tmpdir = 
+    cds_alternate_tmpdir = 
+    du_agent = 
+    lwddir = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/worklib/calc_tb_top/sv
+    cds_alternate_cdslib = 
+    elab_options = 
+    found = true
+    nclsRun = false
+    includeCdslib = true
+    nclsOpts =  -snapshot -cdslib /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.d/cds.lib -64
+    isMceMode = false
+    isMceInvolved = false
+    mceLshmDbPath = 
+    lowPowerInformationAvailable = false
+    hasLshmFile = false
+    workdirIsDirectory = true
+    hasOverlayRelatedInformation = true
+    cds_implicit_tmplib = 
+    cds_other_implicit_tmplibs = 
+
+
+Dump Strap Design DB Order:
+Strap design: simulator #8
+
+End of dump Strap Design DB Order
+
+
+
+
+GOT COMMAND: 
+
+
+
+Scripting Service started, listening on port 33393...
+
+
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.cadence.ufi.gui.views.ui.InnerContentTabbedPaneUI (jar:bundle://a7c2714d-3014-4a47-8d3f-611dcf701fb1_77.0:0/!/) to field javax.swing.plaf.basic.BasicTabbedPaneUI.tabScroller
+WARNING: Please consider reporting this to the maintainers of com.cadence.ufi.gui.views.ui.InnerContentTabbedPaneUI
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+in 'JDACTBDataProvider::openDBInner', dbPath = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/ida.db/ida.shm, getExplicitLwdFlag() = null
+
+
+**** found lwd dir to be: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/worklib/calc_tb_top/sv
+
+
+
+**** found cdslib to be: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.d/cds.lib
+
+in 'SimConnect::loadSnapshotHelper', database handle 'ida' is already associated with the design. skipping process creation.
+
+Dump Strap Design DB Order:
+Strap design: simulator #8
+ --> ida, path = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/ida.db/ida.shm/ida.dsn, type = 4, #373
+
+End of dump Strap Design DB Order
+
+
+in 'JDACTBDataProvider::openDBInner', dbPath = ida.db/ida.shm, getExplicitLwdFlag() = null
+in 'SimConnect::loadSnapshotHelper', database handle 'ida' is already associated with the design. skipping process creation.
+
+Dump Strap Design DB Order:
+Strap design: simulator #8
+ --> ida, path = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/ida.db/ida.shm/ida.dsn, type = 4, #373
+
+End of dump Strap Design DB Order
+
+
+in 'JDACTBDataProvider::openDBInner', dbPath = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/waves.shm, getExplicitLwdFlag() = null
+
+
+**** found lwd dir to be: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/worklib/calc_tb_top/sv
+
+
+
+**** found cdslib to be: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.d/cds.lib
+
+in 'SimConnect::loadSnapshotHelper', database handle 'waves' is already associated with the design. skipping process creation.
+
+Dump Strap Design DB Order:
+Strap design: simulator #8
+ --> ida, path = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/ida.db/ida.shm/ida.dsn, type = 4, #373
+ --> waves, path = /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/waves.shm/waves.dsn, type = 4, #382
+
+End of dump Strap Design DB Order
+
+
+*** shutting down gRPC server since JVM is shutting down
+*** server shut down

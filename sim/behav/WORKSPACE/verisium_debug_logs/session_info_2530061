@@ -1,0 +1,27 @@
+Host Info
+	Hostname: ece-rschsrv.ece.gatech.edu
+	Verisium Debug PID: 2530061
+	OS Version: 4.18.0-553.69.1.el8_10.x86_64
+	OS Architecture: amd64
+	JDK Version: 11.0.2
+	Scripting Port: 33393
+	xmsim PID: 2528031
+Design
+	Design Database: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/worklib/calc_tb_top/sv/debug_db/debug_db_design
+Versions
+	Verisium Debug Version: 25.03.001-s
+	xcelium version: 25.03-s003
+	lwd/snapshot version: 25.03-s003
+Invocation command: /tools/software/cadence/verisumdbg/latest/tools/bin/verisium_debug_internal   -connect dc:ece-rschsrv.ece.gatech.edu:57907 -interactive
+Databases
+	Parser Database: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/xcelium.d/run.lnx8664.25.03.d/debug_db_parser
+	SHM Database: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/ida.db/ida.shm
+	SHM Database: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/waves.shm
+	SHM Database: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/waves.shm
+Log Files
+	env log: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/env.log
+	verisium_debug log: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/verisium_debug.log
+	verisium_debug_karaf log: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/verisium_debug_karaf.log
+	ida log: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/ida.log
+	cdns_vwdbr log: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/cdns_vwdbr.log
+	perf log: /nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/verisium_debug_logs/perf.log

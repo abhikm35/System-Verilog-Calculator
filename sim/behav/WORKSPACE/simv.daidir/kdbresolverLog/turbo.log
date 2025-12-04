@@ -1,0 +1,3 @@
+Command Line: /tools/software/synopsys/vcs/latest/linux64/bin/elabcom -simflow -KDBRESOLVER -simvdaidir simv.daidir -saveLevel -ssz -ssv -ssy -q -logdir simv.daidir/kdbresolverLog
+uname(Linux ece-rschsrv.ece.gatech.edu 4.18.0-553.69.1.el8_10.x86_64 #1 SMP Thu Aug 7 18:10:00 EDT 2025 x86_64)
+au time 0.103166 0.017455 0.024417 delta 101388288 101388288 total 369696768 369696768

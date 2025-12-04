@@ -1,0 +1,16 @@
+1753467282 /tools/software/cadence/ic/23.10.150/share/cdssetup/cds.lib
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calculator_pkg.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/adder32.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/controller.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/full_adder.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/result_buffer.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/sky130_sram_2kbyte_1rw1r_32x512_8.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/top_lvl.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_seq_item.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_tb_pkg.sv
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_driver.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_monitor.svh
+1759118045 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_sb.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_sequencer.svh
+1759117643 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_if.sv
+1759118074 /nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/calc_tb_top.sv

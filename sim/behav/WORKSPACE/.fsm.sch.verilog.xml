@@ -1,0 +1,8 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="state_0"  type="2"  fileName="sym_links/controller.sv"  >
+    <Seg beginLine="46"  endLine="98"  />
+  </RTLInfo>
+ <Instance name="calc_tb_top.my_calc.u_ctrl"  />
+</RTLBlock>
+ </Command>

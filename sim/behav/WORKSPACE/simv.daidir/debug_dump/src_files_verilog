@@ -1,0 +1,15 @@
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/adder32.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_driver.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_if.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_monitor.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_sb.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_seq_item.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_sequencer.svh
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_tb_pkg.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calc_tb_top.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/calculator_pkg.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/controller.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/full_adder.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/result_buffer.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/sky130_sram_2kbyte_1rw1r_32x512_8.sv
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/sim/behav/WORKSPACE/sym_links/top_lvl.sv

@@ -1,0 +1,1 @@
+/nethome/amojumdar6/New_DV_Onboarding_Abhik/src/verilog/sky130_sram_2kbyte_1rw1r_32x512_8.sv

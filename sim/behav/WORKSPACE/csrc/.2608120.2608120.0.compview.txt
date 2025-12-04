@@ -1,0 +1,5 @@
+{"vcs1":{"timestamp_begin":1759118315.686045839, "rt":0.17, "ut":0.06, "st":0.05}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1759118314.650482929}
+{"VCS_COMP_START_TIME": 1759118314.650482929}
+{"VCS_COMP_END_TIME": 1759118316.607749106}
+{"VCS_USER_OPTIONS": "-file sym_links/sim_no_path.include +v2k -R +lint=all -sverilog -full64 -kdb +incdir+sym_links -timescale=1ns/10ps -debug_acc+pp+dmptf -debug_region+cell+encrypt -cm line+tgl+cond+branch+fsm+assert -debug_access+all -l simulation.log +vpdfile+./simulation.vpd +fsdb+./simulation.fsdb +dumpvars +define+SIM=1+VCS=1 +testname="}

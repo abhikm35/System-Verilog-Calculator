@@ -1,0 +1,7 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(28Sep2025:23:51:20):( xrun -64bit -sv -linedebug -access +rwc -timescale 1ns/10ps +define+SIM=1+CADENCE=1 +testname= +incdir+sym_links -coverage all -licqueue -covoverwrite -f sym_links/sim_no_path.include -logfile simulation.log )&&(./xcelium.d/env.d/env.history.28Sep2025_23_51_20)
+s2::(28Sep2025:23:51:50):( xrun -64bit -sv -linedebug -access +rwc -timescale 1ns/10ps +define+SIM=1+CADENCE=1 +testname= +incdir+sym_links -coverage all -licqueue -covoverwrite -gui -debug_opts verisium_interactive -f sym_links/sim_no_path.include -logfile simulation.log )&&(./xcelium.d/env.d/env.history.28Sep2025_23_51_50)
+s3::(28Sep2025:23:54:56):( xrun -64bit -sv -linedebug -access +rwc -timescale 1ns/10ps +define+SIM=1+CADENCE=1 +testname= +incdir+sym_links -coverage all -licqueue -covoverwrite -gui -debug_opts verisium_interactive -f sym_links/sim_no_path.include -logfile simulation.log )&&(./xcelium.d/env.d/env.history.28Sep2025_23_54_56)
